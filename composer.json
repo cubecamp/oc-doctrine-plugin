@@ -1,0 +1,19 @@
+{
+  "name": "cubecamp/oc-doctrine-plugin",
+  "type": "october-plugin",
+  "description": "Doctrine plugin for OctoberCMS",
+  "keywords": ["october", "cms", "octobercms", "plugin"],
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "pittss",
+	  "email": "info@cubecamp.com",
+	  "role": "Co-founder"
+	}
+  ],
+  "require": {
+	"php": ">=7.0.8",
+	"composer/installers": "~1.0",
+	"marktopper/doctrine-dbal-timestamp-type": "~1.0"
+  }
+}
